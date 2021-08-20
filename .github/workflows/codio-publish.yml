@@ -25,7 +25,7 @@ jobs:
           client-id: ${{ secrets.CODIO_CLIENT_ID }}
           secret-id: ${{ secrets.CODIO_SECRET_ID }}
           dir: ./
-          course-id: 28df410f29a48f0e500b25899397e0a0
+          course-id: 36591331a728b6473715b34bf0dc9b85
           changelog: ${{ github.event.head_commit.message }}
           # the location of your yaml mapping files
           yml: ./.github/assignments
