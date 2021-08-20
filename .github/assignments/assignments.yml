@@ -1,0 +1,7 @@
+- assignment: 069aecb6b77c8e7cae45c97ad8196980
+  section:  ["Intro to Javascript", "Intro to Javascript"]
+  paths: ["01-intro-to-javascript/**"]
+  
+- assignment: d7e0a0454edee2705722f56833fc8963
+  section:  ["Intro to Javascript", "Expressions and Variables"]
+  paths: ["02-expressions-and-variables/**"]

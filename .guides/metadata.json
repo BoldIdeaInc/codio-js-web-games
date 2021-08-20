@@ -1,0 +1,361 @@
+{
+ "sections": [
+  {
+   "id": "94a5ace7-2f9d-2913-e9c5-e8245d16a7da",
+   "title": "Welcome",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Welcome-94a5.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "25781cbf-d586-7199-cdf3-f42e2e6a5191",
+   "title": "What is Javascript?",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/What-is-Javascript--2578.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "75ca7f69-9ce1-e132-f960-0b65454624b5",
+   "title": "The Javascript Console",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: /.guides/p/#consoleOnly",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/The-Javascript-Console-75ca.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "cb47b725-3dfd-874d-11e3-83e65c0ff093",
+   "title": "Running Javascript from a File",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Running-Javascript-from-a-File-cb47.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "1095aba6-2fe7-e244-5e8a-0eab9c2c3749",
+   "title": "Inline Scripts",
+   "files": [
+    {
+     "path": "01-intro-to-javascript/javascript-practice.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: .guides/p/#preview=/01-intro-to-javascript/javascript-practice.html&consoleSize=115px",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Inline-Scripts-1095.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "d7e82ebc-65f5-a6fd-f15e-6bf44a59bed7",
+   "title": "External Scripts",
+   "files": [
+    {
+     "path": "01-intro-to-javascript/javascript-practice.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: .guides/p/#preview=/01-intro-to-javascript/javascript-practice.html&consoleSize=115px",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/External-Scripts-d7e8.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "299ef57d-6592-558b-c8e0-60af9fea822e",
+   "title": "Semicolons",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Semicolons-299e.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "38e1eb8e-0cd3-0d36-970a-96b365ee00a7",
+   "title": "Understanding Error Messages",
+   "files": [
+    {
+     "path": "01-intro-to-javascript/practice.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: .guides/p/#preview=/01-intro-to-javascript/javascript-practice.html&consoleSize=150px",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Understanding-Error-Messages-38e1.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "cee27749-5970-c322-ce4a-c31e69795ff1",
+   "title": "Comments",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Comments-cee2.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "0130e4fc-236c-d1f2-eca2-0a28af3c111c",
+   "title": "Multi-line Comments",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Multi-line-Comments-0130.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "5269cc76-6f23-88d3-5388-b05f12364dac",
+   "title": "Expressions",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Expressions-5269.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "c31c95b9-8c58-90a4-b18a-43bef31848e8",
+   "title": "Math Expressions",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: .guides/p/#consoleOnly",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Math-Expressions-c31c.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "85bd33d1-3dad-0a14-2c8a-85149d47ce9a",
+   "title": "String Expressions",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/String-Expressions-85bd.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "6631822f-e1d4-8e9a-dbc8-917294b51ca0",
+   "title": "Variables",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Variables-6631.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "101e1ee1-063c-2af0-07de-f51610d99527",
+   "title": "Declaring and Re-assigning Variables",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Declaring-and-Re-assigning-Variables-101e.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "cfeebf3e-22be-6ecf-79f6-ebeb7b901917",
+   "title": "Incrementing and Decrementing Numbers",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Incrementing-and-Decrementing-Numbers-cfee.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "9d106a77-628a-cc23-b678-e433d0fcab49",
+   "title": "Naming",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Naming-9d10.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "d77e9669-02d3-c85b-15b4-dee029719eea",
+   "title": "alert() and prompt()",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/alert---and-prompt---d77e.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "63e459b2-6ffb-0bcf-0089-53a603dbda6b",
+   "title": "Code Challenge: Turtle Squares",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "02-expressions-and-variables/turtle-squares.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Code-Challenge--Turtle-Squares-63e4.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": true,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}
