@@ -13,58 +13,58 @@
      "pageId": "94a5ace7-2f9d-2913-e9c5-e8245d16a7da"
     },
     {
-     "id": "be0919e9-fdc1-5c48-c53c-f0833c9d96d7",
      "title": "What is Javascript?",
-     "pageId": "25781cbf-d586-7199-cdf3-f42e2e6a5191",
-     "type": "page"
+     "id": "be0919e9-fdc1-5c48-c53c-f0833c9d96d7",
+     "type": "page",
+     "pageId": "25781cbf-d586-7199-cdf3-f42e2e6a5191"
     },
     {
-     "id": "23b67f6c-50d4-7271-861f-8f377cd02330",
      "title": "The Javascript Console",
-     "pageId": "75ca7f69-9ce1-e132-f960-0b65454624b5",
-     "type": "page"
+     "id": "23b67f6c-50d4-7271-861f-8f377cd02330",
+     "type": "page",
+     "pageId": "75ca7f69-9ce1-e132-f960-0b65454624b5"
     },
     {
-     "id": "8277bd53-d5bb-0db3-92ef-0124e000576c",
      "title": "Running Javascript from a File",
-     "pageId": "cb47b725-3dfd-874d-11e3-83e65c0ff093",
-     "type": "page"
+     "id": "8277bd53-d5bb-0db3-92ef-0124e000576c",
+     "type": "page",
+     "pageId": "cb47b725-3dfd-874d-11e3-83e65c0ff093"
     },
     {
-     "id": "9916867c-5ad5-b8e0-e1e9-94d9f0449660",
      "title": "Inline Scripts",
-     "pageId": "1095aba6-2fe7-e244-5e8a-0eab9c2c3749",
-     "type": "page"
+     "id": "9916867c-5ad5-b8e0-e1e9-94d9f0449660",
+     "type": "page",
+     "pageId": "1095aba6-2fe7-e244-5e8a-0eab9c2c3749"
     },
     {
-     "id": "ea00d6a6-e0d9-b6a4-b63b-ac47a1645a0a",
      "title": "External Scripts",
-     "pageId": "d7e82ebc-65f5-a6fd-f15e-6bf44a59bed7",
-     "type": "page"
+     "id": "ea00d6a6-e0d9-b6a4-b63b-ac47a1645a0a",
+     "type": "page",
+     "pageId": "d7e82ebc-65f5-a6fd-f15e-6bf44a59bed7"
     },
     {
-     "id": "0769e1b4-3dd7-3bab-7537-ee95a0196388",
      "title": "Semicolons",
-     "pageId": "299ef57d-6592-558b-c8e0-60af9fea822e",
-     "type": "page"
+     "id": "0769e1b4-3dd7-3bab-7537-ee95a0196388",
+     "type": "page",
+     "pageId": "299ef57d-6592-558b-c8e0-60af9fea822e"
     },
     {
-     "id": "a7b817a4-ca26-a5fc-1386-012fc6393ffa",
      "title": "Understanding Error Messages",
-     "pageId": "38e1eb8e-0cd3-0d36-970a-96b365ee00a7",
-     "type": "page"
+     "id": "a7b817a4-ca26-a5fc-1386-012fc6393ffa",
+     "type": "page",
+     "pageId": "38e1eb8e-0cd3-0d36-970a-96b365ee00a7"
     },
     {
-     "id": "b1b172a8-8eca-2ce9-7531-189261c57df2",
      "title": "Comments",
-     "pageId": "cee27749-5970-c322-ce4a-c31e69795ff1",
-     "type": "page"
+     "id": "b1b172a8-8eca-2ce9-7531-189261c57df2",
+     "type": "page",
+     "pageId": "cee27749-5970-c322-ce4a-c31e69795ff1"
     },
     {
-     "id": "85f0f05f-fc1a-64d7-d7db-c27cd62cd966",
      "title": "Multi-line Comments",
-     "pageId": "0130e4fc-236c-d1f2-eca2-0a28af3c111c",
-     "type": "page"
+     "id": "85f0f05f-fc1a-64d7-d7db-c27cd62cd966",
+     "type": "page",
+     "pageId": "0130e4fc-236c-d1f2-eca2-0a28af3c111c"
     }
    ]
   },
@@ -74,58 +74,58 @@
    "type": "chapter",
    "children": [
     {
-     "id": "7794e756-9fb0-5f5c-b08f-e43127066f54",
      "title": "Expressions",
-     "pageId": "5269cc76-6f23-88d3-5388-b05f12364dac",
-     "type": "page"
+     "id": "7794e756-9fb0-5f5c-b08f-e43127066f54",
+     "type": "page",
+     "pageId": "5269cc76-6f23-88d3-5388-b05f12364dac"
     },
     {
-     "id": "be3edb8f-c348-c944-2c23-ac290be98356",
      "title": "Math Expressions",
-     "pageId": "c31c95b9-8c58-90a4-b18a-43bef31848e8",
-     "type": "page"
+     "id": "be3edb8f-c348-c944-2c23-ac290be98356",
+     "type": "page",
+     "pageId": "c31c95b9-8c58-90a4-b18a-43bef31848e8"
     },
     {
-     "id": "fbee1a06-4b91-24f2-1712-dc9fe4ee1d87",
      "title": "String Expressions",
-     "pageId": "85bd33d1-3dad-0a14-2c8a-85149d47ce9a",
-     "type": "page"
+     "id": "fbee1a06-4b91-24f2-1712-dc9fe4ee1d87",
+     "type": "page",
+     "pageId": "85bd33d1-3dad-0a14-2c8a-85149d47ce9a"
     },
     {
-     "id": "d9b1c161-f4de-b648-20ad-8071e1b9feec",
      "title": "Variables",
-     "pageId": "6631822f-e1d4-8e9a-dbc8-917294b51ca0",
-     "type": "page"
+     "id": "d9b1c161-f4de-b648-20ad-8071e1b9feec",
+     "type": "page",
+     "pageId": "6631822f-e1d4-8e9a-dbc8-917294b51ca0"
     },
     {
-     "id": "0a0f0191-06cb-fe79-0c3a-e7053454cfaa",
      "title": "Declaring and Re-assigning Variables",
-     "pageId": "101e1ee1-063c-2af0-07de-f51610d99527",
-     "type": "page"
+     "id": "0a0f0191-06cb-fe79-0c3a-e7053454cfaa",
+     "type": "page",
+     "pageId": "101e1ee1-063c-2af0-07de-f51610d99527"
     },
     {
-     "id": "cc06744c-79d5-51c3-60a0-da0c47769241",
      "title": "Incrementing and Decrementing Numbers",
-     "pageId": "cfeebf3e-22be-6ecf-79f6-ebeb7b901917",
-     "type": "page"
+     "id": "cc06744c-79d5-51c3-60a0-da0c47769241",
+     "type": "page",
+     "pageId": "cfeebf3e-22be-6ecf-79f6-ebeb7b901917"
     },
     {
-     "id": "37aa7061-316d-d857-ddb0-24221d1ace26",
      "title": "Naming",
-     "pageId": "9d106a77-628a-cc23-b678-e433d0fcab49",
-     "type": "page"
+     "id": "37aa7061-316d-d857-ddb0-24221d1ace26",
+     "type": "page",
+     "pageId": "9d106a77-628a-cc23-b678-e433d0fcab49"
     },
     {
-     "id": "2eeb13e0-2d51-a624-4c20-9172eb0aced8",
      "title": "alert() and prompt()",
-     "pageId": "d77e9669-02d3-c85b-15b4-dee029719eea",
-     "type": "page"
+     "id": "2eeb13e0-2d51-a624-4c20-9172eb0aced8",
+     "type": "page",
+     "pageId": "d77e9669-02d3-c85b-15b4-dee029719eea"
     },
     {
-     "id": "3e4cb183-a942-38ee-9853-66db4e551541",
      "title": "Code Challenge: Turtle Squares",
-     "pageId": "63e459b2-6ffb-0bcf-0089-53a603dbda6b",
-     "type": "page"
+     "id": "3e4cb183-a942-38ee-9853-66db4e551541",
+     "type": "page",
+     "pageId": "63e459b2-6ffb-0bcf-0089-53a603dbda6b"
     }
    ]
   }
