@@ -5,3 +5,11 @@
 - assignment: d7e0a0454edee2705722f56833fc8963
   section:  ["Expressions and Variables"]
   paths: ["02-expressions-and-variables/**"]
+
+- assignment: aeda6e75731fed3e32fe05f1d5cad82d
+  section: ["Working with Strings"]
+  paths: ["03-working-with-strings/**"]
+
+- assignment: 911f981641b75dc485691d99788067fb
+  section: ["Functions"]
+  paths: ["04-functions/**"]
