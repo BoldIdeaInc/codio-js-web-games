@@ -128,6 +128,98 @@
      "pageId": "63e459b2-6ffb-0bcf-0089-53a603dbda6b"
     }
    ]
+  },
+  {
+   "title": "Working with Strings",
+   "id": "f1ed779f-d4ec-0093-f03c-afa18fb70e95",
+   "type": "chapter",
+   "children": [
+    {
+     "id": "f88f130f-a489-d719-12c6-6814b86de7f5",
+     "title": "Working with Strings",
+     "pageId": "31d24dc8-64ff-65c6-284c-15d7465949b4",
+     "type": "page"
+    },
+    {
+     "id": "1f017769-bc77-5bf6-1e6b-a2f43adbc7ee",
+     "title": "String Methods",
+     "pageId": "6b4baca4-8795-f35c-74ac-20398b7b941f",
+     "type": "page"
+    },
+    {
+     "id": "60c05e28-7643-9b47-6535-01796c1fed06",
+     "title": "Strings vs. Numbers",
+     "pageId": "3081a701-dc28-b64f-0079-4c79ea82572c",
+     "type": "page"
+    },
+    {
+     "id": "b32e06a1-2ea8-6cb1-61ca-54b5d8604d84",
+     "title": "Converting strings to numbers",
+     "pageId": "fce78673-a2ee-6135-a03d-dc35e058face",
+     "type": "page"
+    },
+    {
+     "id": "e656bf15-5ee2-cac0-a192-589b7fb0779b",
+     "title": "Code Challenge - Age Predictor",
+     "pageId": "1e69dc2f-439c-fd1c-7cfb-b571ec6f235e",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Functions",
+   "id": "def38357-ee7c-7840-fc2c-86a5a91e0bef",
+   "type": "chapter",
+   "children": [
+    {
+     "id": "2fc89ca1-e8a1-4874-c31c-4d510b536245",
+     "title": "Functions intro",
+     "pageId": "08de67c0-1ee3-f448-2297-b8149ff231c6",
+     "type": "page"
+    },
+    {
+     "id": "c34cc908-f7a3-8276-6190-c04003ccc984",
+     "title": "Defining Functions",
+     "pageId": "031427ee-c789-1b5e-402d-8833bc3d1c8f",
+     "type": "page"
+    },
+    {
+     "id": "357d14ed-f6c5-bf85-9d9b-e4d7151b8df4",
+     "title": "Calling Functions",
+     "pageId": "67000ce0-2444-d57b-63c8-3714f80096ab",
+     "type": "page"
+    },
+    {
+     "id": "107bf8e3-4975-80b6-ad84-d090358f54a2",
+     "title": "Function Parameters",
+     "pageId": "7b8a9f85-7984-8f29-e99f-7ff5e71c613d",
+     "type": "page"
+    },
+    {
+     "id": "9b609be1-090f-0184-1f37-05e23b211907",
+     "title": "Using Parameters",
+     "pageId": "71947624-296f-75ae-d7f6-a6b397810206",
+     "type": "page"
+    },
+    {
+     "id": "6f527432-2d15-18be-bbf0-f7b867310474",
+     "title": "What happened here?",
+     "pageId": "3222709a-179f-44de-1799-3ace5bd27658",
+     "type": "page"
+    },
+    {
+     "id": "89fded7d-e3fb-49a7-59d3-345b781f271b",
+     "title": "Adding more parameters",
+     "pageId": "77b5c9d4-3746-6265-874b-0b98774f0800",
+     "type": "page"
+    },
+    {
+     "id": "f2dff811-2cfe-774e-3a0d-23a9c14a90a3",
+     "title": "Code Challenge: Turtle House Neighborhood",
+     "pageId": "87b6cc4b-f132-98fb-200d-fb5206960fb3",
+     "type": "page"
+    }
+   ]
   }
  ]
 }

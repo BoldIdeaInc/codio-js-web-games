@@ -344,6 +344,241 @@
    "teacherOnly": false,
    "closeTerminalSession": true,
    "learningObjectives": ""
+  },
+  {
+   "id": "31d24dc8-64ff-65c6-284c-15d7465949b4",
+   "title": "Working with Strings",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Working-with-Strings-31d2.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "6b4baca4-8795-f35c-74ac-20398b7b941f",
+   "title": "String Methods",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/String-Methods-6b4b.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "3081a701-dc28-b64f-0079-4c79ea82572c",
+   "title": "Strings vs. Numbers",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Strings-vs--Numbers-3081.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "fce78673-a2ee-6135-a03d-dc35e058face",
+   "title": "Converting strings to numbers",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Converting-strings-to-numbers-fce7.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "1e69dc2f-439c-fd1c-7cfb-b571ec6f235e",
+   "title": "Code Challenge - Age Predictor",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "03-working-with-strings/age-predictor.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Code-Challenge---Age-Predictor-1e69.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "08de67c0-1ee3-f448-2297-b8149ff231c6",
+   "title": "Functions intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Functions-intro-08de.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "031427ee-c789-1b5e-402d-8833bc3d1c8f",
+   "title": "Defining Functions",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "04-functions/pbj-function.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: /.guides/p/#preview=/04-functions/pbj-function.html&consoleSize=90%25",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Defining-Functions-0314.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "67000ce0-2444-d57b-63c8-3714f80096ab",
+   "title": "Calling Functions",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Calling-Functions-6700.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "7b8a9f85-7984-8f29-e99f-7ff5e71c613d",
+   "title": "Function Parameters",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Function-Parameters-7b8a.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "71947624-296f-75ae-d7f6-a6b397810206",
+   "title": "Using Parameters",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "04-functions/pbj-function.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: .guides/p/#preview=/04-functions/pbj-function.html&consoleSize=90%25",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Using-Parameters-7194.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "3222709a-179f-44de-1799-3ace5bd27658",
+   "title": "What happened here?",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/What-happened-here--3222.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "77b5c9d4-3746-6265-874b-0b98774f0800",
+   "title": "Adding more parameters",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Adding-more-parameters-77b5.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "87b6cc4b-f132-98fb-200d-fb5206960fb3",
+   "title": "Code Challenge: Turtle House Neighborhood",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "04-functions/turtle-houses.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Code-Challenge--Turtle-House-Neighborhood-87b6.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
   }
  ],
  "theme": "light",

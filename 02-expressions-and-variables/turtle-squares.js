@@ -1,8 +1,8 @@
 const turtle = new Turtle();
+turtle.pendown();
 
 let size = Number(prompt("Enter a size between 10 and 100"));
 
-turtle.pendown();
 
 turtle.forward(100);
 turtle.left(90);
