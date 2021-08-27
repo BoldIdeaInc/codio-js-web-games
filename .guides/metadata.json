@@ -810,7 +810,18 @@
   {
    "id": "11a0f345-d1cf-6d79-6ca8-3a6d5338381c",
    "title": "Code Challenge: Snowman Sunset",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "05-drawing/snowman-sunset.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "html",
    "content-file": ".guides/content/Code-Challenge--Snowman-Sunset-11a0.html",
