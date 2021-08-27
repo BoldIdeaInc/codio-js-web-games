@@ -13,3 +13,7 @@
 - assignment: 911f981641b75dc485691d99788067fb
   section: ["Functions"]
   paths: ["04-functions/**"]
+
+- assignment: 3d862c76dea9438ac2d46c875fa7e012
+  section: ["Drawing Graphics with p5.js"]
+  paths: ["05-drawing/**"]
