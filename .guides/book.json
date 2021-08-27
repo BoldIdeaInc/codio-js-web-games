@@ -220,6 +220,85 @@
      "type": "page"
     }
    ]
+  },
+  {
+   "title": "Drawing Graphics with p5.js",
+   "id": "40f0e206-592d-bb71-b086-c010fab92af7",
+   "type": "chapter",
+   "children": [
+    {
+     "id": "ec501128-20b2-bf1f-5106-6cc65a529651",
+     "title": "Drawing graphics with p5.js",
+     "pageId": "efd1edcd-d534-3497-5c4e-8ba3bfbde6f6",
+     "type": "page"
+    },
+    {
+     "id": "34649dc4-bfbb-9c24-b0a6-12ad8df46363",
+     "title": "Coordinate Systems",
+     "pageId": "dde74c31-2e76-a522-b72b-9fbe2c6bac83",
+     "type": "page"
+    },
+    {
+     "id": "b3114a5d-6453-2cdb-f9f3-28302da4309d",
+     "title": "Getting started with p5.js",
+     "pageId": "5f4e4d28-fd80-7218-9f1f-cc84feacaf7e",
+     "type": "page"
+    },
+    {
+     "id": "abdcdaac-bfea-532e-29c2-faf73ffafa50",
+     "title": "Drawing shapes",
+     "pageId": "0f892c31-fa53-90a6-79f0-40325f4443b5",
+     "type": "page"
+    },
+    {
+     "id": "ff699fcd-9248-5f64-13d7-3376c5f09d82",
+     "title": "Colors",
+     "pageId": "2ca75684-8468-492f-51db-520ff51db0fc",
+     "type": "page"
+    },
+    {
+     "id": "5bc7981e-7ac1-25a8-db26-2b17a969da08",
+     "title": "Text",
+     "pageId": "b6658359-c976-7fc3-60ea-307231e9ece0",
+     "type": "page"
+    },
+    {
+     "id": "3eb9c3fe-ee87-3aa8-ada4-fa93ba969fe0",
+     "title": "Special p5 functions",
+     "pageId": "a410da03-527b-5632-d2ca-78803621c6ec",
+     "type": "page"
+    },
+    {
+     "id": "3d6e60a1-c555-92e7-cb0c-883c600f990d",
+     "title": "Animation using the draw() function",
+     "pageId": "0bf21094-1fb0-b031-f07a-38e4984bd1fa",
+     "type": "page"
+    },
+    {
+     "id": "0d2b8ad3-19a7-1cbb-d50c-060ffad3d72f",
+     "title": "Loading and displaying images",
+     "pageId": "3fb98cc7-ba27-164a-299e-9140d1e71d15",
+     "type": "page"
+    },
+    {
+     "id": "23f3ef4b-9658-205b-7e48-344d61e94073",
+     "title": "Anatomy of a p5 script",
+     "pageId": "191f802a-a75c-800e-5649-cee41dc514a0",
+     "type": "page"
+    },
+    {
+     "id": "0eae2ead-c49d-ba9d-d4db-06cf2d7df257",
+     "title": "Variable scope",
+     "pageId": "0c93d5e1-fb19-3a37-4092-175c6354ddba",
+     "type": "page"
+    },
+    {
+     "id": "fc5e4b81-a0fb-d31d-0081-657871436616",
+     "title": "Code Challenge: Snowman Sunset",
+     "pageId": "11a0f345-d1cf-6d79-6ca8-3a6d5338381c",
+     "type": "page"
+    }
+   ]
   }
  ]
 }

@@ -579,6 +579,246 @@
    "teacherOnly": false,
    "closeTerminalSession": true,
    "learningObjectives": ""
+  },
+  {
+   "id": "efd1edcd-d534-3497-5c4e-8ba3bfbde6f6",
+   "title": "Drawing graphics with p5.js",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Drawing-graphics-with-p5-js-efd1.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "dde74c31-2e76-a522-b72b-9fbe2c6bac83",
+   "title": "Coordinate Systems",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Coordinate-Systems-dde7.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "5f4e4d28-fd80-7218-9f1f-cc84feacaf7e",
+   "title": "Getting started with p5.js",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "05-drawing/drawing.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "05-drawing/drawing.js",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Getting-started-with-p5-js-5f4e.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "0f892c31-fa53-90a6-79f0-40325f4443b5",
+   "title": "Drawing shapes",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: /.guides/p/#preview=/05-drawing/drawing.html&consoleOpen=true&consoleSize=25%25",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Drawing-shapes-0f89.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "2ca75684-8468-492f-51db-520ff51db0fc",
+   "title": "Colors",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Colors-2ca7.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b6658359-c976-7fc3-60ea-307231e9ece0",
+   "title": "Text",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Text-b665.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a410da03-527b-5632-d2ca-78803621c6ec",
+   "title": "Special p5 functions",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "05-drawing/drawing.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Special-p5-functions-a410.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "0bf21094-1fb0-b031-f07a-38e4984bd1fa",
+   "title": "Animation using the draw() function",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "05-drawing/drawing.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: .guides/p/#preview=/05-drawing/drawing.html&consoleOpen",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Animation-using-the-draw---function-0bf2.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "3fb98cc7-ba27-164a-299e-9140d1e71d15",
+   "title": "Loading and displaying images",
+   "files": [
+    {
+     "path": "05-drawing/drawing.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: .guides/p/#preview=/05-drawing/drawing.html&showConsole",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Loading-and-displaying-images-3fb9.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "191f802a-a75c-800e-5649-cee41dc514a0",
+   "title": "Anatomy of a p5 script",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "05-drawing/drawing.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Anatomy-of-a-p5-script-191f.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "0c93d5e1-fb19-3a37-4092-175c6354ddba",
+   "title": "Variable scope",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Variable-scope-0c93.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "11a0f345-d1cf-6d79-6ca8-3a6d5338381c",
+   "title": "Code Challenge: Snowman Sunset",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Code-Challenge--Snowman-Sunset-11a0.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
   }
  ],
  "theme": "light",

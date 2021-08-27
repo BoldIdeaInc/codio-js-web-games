@@ -1,6 +1,7 @@
 [editor]
 tab_size = 2
 linting = false
+automatic_completions = false
 ; enter your editor preferences here...
 
 [ide]
