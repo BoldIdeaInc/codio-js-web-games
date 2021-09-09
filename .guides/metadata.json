@@ -830,14 +830,370 @@
    "teacherOnly": false,
    "closeTerminalSession": true,
    "learningObjectives": ""
+  },
+  {
+   "id": "e42f85da-086e-4596-1e3c-aeab6663f764",
+   "title": "Boolean expressions",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: .guides/p/#consoleOnly",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Boolean-expressions-e42f.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "bda12056-936e-f562-2e2f-575a1e843a88",
+   "title": "Comparison operators",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: .guides/p/#consoleOnly",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Comparison-operators-bda1.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "c4d2f923-7a4d-e5f3-dd8b-124350b58510",
+   "title": "If statements",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: .guides/p/#consoleOnly",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/If-statements-c4d2.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "4011f525-3509-0571-a333-0f8f24a7c2da",
+   "title": "If statements (practice)",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "06-conditions/if-statement.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/If-statements--practice--4011.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "184baaee-7464-9533-6226-595d001eced4",
+   "title": "If-else statements",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/If-else-statements-184b.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "35c53d47-ef61-28ac-0acb-dd7cc1d5034f",
+   "title": "Logical operators",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Logical-operators-35c5.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "eec6eab2-fd59-591e-f6b0-11b04943df48",
+   "title": "Logical operators (practice)",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "06-conditions/weather.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Logical-operators--practice--eec6.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "24f3a213-33f5-1b1b-b7d6-7d502a885c8f",
+   "title": "Negation operator",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: .guides/p/#consoleOnly",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Negation-operator-24f3.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "992bdb78-ffdf-5d0f-227e-6e133129f113",
+   "title": "Code challenge: Pets",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "06-conditions/pets.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell",
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Code-challenge--Pets-992b.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "227eb856-a886-e1a6-5342-868574739742",
+   "title": "Objects",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Objects-227e.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "db71d767-fcf1-0b08-63a0-10c4b0176ad8",
+   "title": "Objects (practice)",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Objects--practice--db71.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "36b7ff98-b3b5-a1ca-0394-ad449151cb93",
+   "title": "Adding properties",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Adding-properties-36b7.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "606cf98a-81d6-616e-de67-2bb852d66e5a",
+   "title": "Arrays",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Arrays-606c.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "871c3455-1836-3226-5258-baba646d093f",
+   "title": "Array Indexes",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Array-Indexes-871c.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b7d0d9d1-d850-4d99-edd9-ee866f570b69",
+   "title": "Adding and removing values at the end",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Adding-and-removing-values-at-the-end-b7d0.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "08455e0d-48f5-aaa9-e673-206f5e339b81",
+   "title": "Adding and removing values at the beginning",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Adding-and-removing-values-at-the-beginning-0845.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b9705102-eeee-64a7-712e-e2556ee22365",
+   "title": "More array methods",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/More-array-methods-b970.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "9484860e-002b-a00a-e4f9-656d78502c1a",
+   "title": "Loops",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Loops-9484.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "2feec3dd-3791-6f4f-912c-0dbb7c2a2dbd",
+   "title": "Counting loops",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Counting-loops-2fee.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "3f2e5664-7ef7-a9e9-370d-51811bb028c7",
+   "title": "For-of loop",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/For-of-loop-3f2e.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "1a8b13e9-dbc5-574a-b779-734c0bae02ab",
+   "title": "Coding challenge: Loops",
+   "files": [],
+   "path": [],
+   "type": "html",
+   "content-file": ".guides/content/Coding-challenge--Loops-1a8b.html",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
   }
  ],
  "theme": "light",
  "scripts": [],
  "lexikonTopic": "",
  "suppressPageNumbering": true,
- "useSubmitButtons": true,
- "useMarkAsComplete": true,
+ "useSubmitButtons": false,
+ "useMarkAsComplete": false,
  "hideMenu": false,
  "allowGuideClose": false,
  "collapsedOnStart": false,

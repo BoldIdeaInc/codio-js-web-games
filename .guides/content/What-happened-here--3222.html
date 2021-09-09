@@ -1,4 +1,4 @@
-<script type="text/markdown">
+<script type="text/markdown" data-class="functions parameters-3">
 # Function Parameters
 
 ## What happened here?
@@ -32,9 +32,7 @@ makeSandwich("grape");
 </script>
 <script src=".guides/js/activities.js"></script>
 <script>
-  document.addEventListener('DOMContentLoaded', () => {
-    window.doc.addEventListener('loaded', () => {
-      initTours();
-    });
+  onDocReady(() => {
+    initTours();
   });
 </script>

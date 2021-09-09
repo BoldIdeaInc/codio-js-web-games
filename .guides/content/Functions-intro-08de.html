@@ -1,4 +1,4 @@
-<script type="text/markdown">
+<script type="text/markdown" data-class="functions intro">
 # Functions
 
 A *function*{.voc} allows you to run a bunch of code in just one
@@ -64,10 +64,9 @@ Click the "Show me how" button to see how to write a function:
 </script>
 <script src=".guides/js/activities.js"></script>
 <script>
-  document.addEventListener('DOMContentLoaded', () => {
-    window.doc.addEventListener('loaded', () => {
-      initDefiningFunctionsActivity(window.doc);
-      initTours();
-    });
+  onDocReady(() => {
+    console.log('DOC LOADED!!!');
+    initDefiningFunctionsActivity(window.doc);
+    initTours();
   });
 </script>

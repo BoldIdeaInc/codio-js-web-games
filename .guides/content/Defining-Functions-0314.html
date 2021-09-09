@@ -1,4 +1,4 @@
-<script type="text/markdown">
+<script type="text/markdown" data-class="functions defining-functions">
 # Defining Functions
 
 Let's put this `makeSandwich()` function in a file so we can test it:
@@ -23,10 +23,8 @@ Let's put this `makeSandwich()` function in a file so we can test it:
 </script>
 <script src=".guides/js/activities.js"></script>
 <script>
-  document.addEventListener('DOMContentLoaded', () => {
-    window.doc.addEventListener('loaded', () => {
+    onDocReady(() => {
       const codeBox = document.querySelector('.pbjcode');
       updatePBJFunctionBox(codeBox, doc);
     });
-  });
 </script>

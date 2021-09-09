@@ -424,6 +424,15 @@ function initQuizzes() {
   }
 }
 
+let __docLoaded = false;
+function onDocReady(fn) {
+  if (__docLoaded) {
+    fn();
+  } else {
+    window.doc.addEventListener('loaded', fn);
+  }
+}
+window.doc.addEventListener('loaded', () => __docLoaded = true);
 /*
 booleanQuizzes();
 definingFunctions(doc);

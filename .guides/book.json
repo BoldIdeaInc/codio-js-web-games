@@ -135,34 +135,34 @@
    "type": "chapter",
    "children": [
     {
-     "id": "f88f130f-a489-d719-12c6-6814b86de7f5",
      "title": "Working with Strings",
-     "pageId": "31d24dc8-64ff-65c6-284c-15d7465949b4",
-     "type": "page"
+     "id": "f88f130f-a489-d719-12c6-6814b86de7f5",
+     "type": "page",
+     "pageId": "31d24dc8-64ff-65c6-284c-15d7465949b4"
     },
     {
-     "id": "1f017769-bc77-5bf6-1e6b-a2f43adbc7ee",
      "title": "String Methods",
-     "pageId": "6b4baca4-8795-f35c-74ac-20398b7b941f",
-     "type": "page"
+     "id": "1f017769-bc77-5bf6-1e6b-a2f43adbc7ee",
+     "type": "page",
+     "pageId": "6b4baca4-8795-f35c-74ac-20398b7b941f"
     },
     {
-     "id": "60c05e28-7643-9b47-6535-01796c1fed06",
      "title": "Strings vs. Numbers",
-     "pageId": "3081a701-dc28-b64f-0079-4c79ea82572c",
-     "type": "page"
+     "id": "60c05e28-7643-9b47-6535-01796c1fed06",
+     "type": "page",
+     "pageId": "3081a701-dc28-b64f-0079-4c79ea82572c"
     },
     {
-     "id": "b32e06a1-2ea8-6cb1-61ca-54b5d8604d84",
      "title": "Converting strings to numbers",
-     "pageId": "fce78673-a2ee-6135-a03d-dc35e058face",
-     "type": "page"
+     "id": "b32e06a1-2ea8-6cb1-61ca-54b5d8604d84",
+     "type": "page",
+     "pageId": "fce78673-a2ee-6135-a03d-dc35e058face"
     },
     {
-     "id": "e656bf15-5ee2-cac0-a192-589b7fb0779b",
      "title": "Code Challenge - Age Predictor",
-     "pageId": "1e69dc2f-439c-fd1c-7cfb-b571ec6f235e",
-     "type": "page"
+     "id": "e656bf15-5ee2-cac0-a192-589b7fb0779b",
+     "type": "page",
+     "pageId": "1e69dc2f-439c-fd1c-7cfb-b571ec6f235e"
     }
    ]
   },
@@ -172,52 +172,52 @@
    "type": "chapter",
    "children": [
     {
-     "id": "2fc89ca1-e8a1-4874-c31c-4d510b536245",
      "title": "Functions intro",
-     "pageId": "08de67c0-1ee3-f448-2297-b8149ff231c6",
-     "type": "page"
+     "id": "2fc89ca1-e8a1-4874-c31c-4d510b536245",
+     "type": "page",
+     "pageId": "08de67c0-1ee3-f448-2297-b8149ff231c6"
     },
     {
-     "id": "c34cc908-f7a3-8276-6190-c04003ccc984",
      "title": "Defining Functions",
-     "pageId": "031427ee-c789-1b5e-402d-8833bc3d1c8f",
-     "type": "page"
+     "id": "c34cc908-f7a3-8276-6190-c04003ccc984",
+     "type": "page",
+     "pageId": "031427ee-c789-1b5e-402d-8833bc3d1c8f"
     },
     {
-     "id": "357d14ed-f6c5-bf85-9d9b-e4d7151b8df4",
      "title": "Calling Functions",
-     "pageId": "67000ce0-2444-d57b-63c8-3714f80096ab",
-     "type": "page"
+     "id": "357d14ed-f6c5-bf85-9d9b-e4d7151b8df4",
+     "type": "page",
+     "pageId": "67000ce0-2444-d57b-63c8-3714f80096ab"
     },
     {
-     "id": "107bf8e3-4975-80b6-ad84-d090358f54a2",
      "title": "Function Parameters",
-     "pageId": "7b8a9f85-7984-8f29-e99f-7ff5e71c613d",
-     "type": "page"
+     "id": "107bf8e3-4975-80b6-ad84-d090358f54a2",
+     "type": "page",
+     "pageId": "7b8a9f85-7984-8f29-e99f-7ff5e71c613d"
     },
     {
-     "id": "9b609be1-090f-0184-1f37-05e23b211907",
      "title": "Using Parameters",
-     "pageId": "71947624-296f-75ae-d7f6-a6b397810206",
-     "type": "page"
+     "id": "9b609be1-090f-0184-1f37-05e23b211907",
+     "type": "page",
+     "pageId": "71947624-296f-75ae-d7f6-a6b397810206"
     },
     {
-     "id": "6f527432-2d15-18be-bbf0-f7b867310474",
      "title": "What happened here?",
-     "pageId": "3222709a-179f-44de-1799-3ace5bd27658",
-     "type": "page"
+     "id": "6f527432-2d15-18be-bbf0-f7b867310474",
+     "type": "page",
+     "pageId": "3222709a-179f-44de-1799-3ace5bd27658"
     },
     {
-     "id": "89fded7d-e3fb-49a7-59d3-345b781f271b",
      "title": "Adding more parameters",
-     "pageId": "77b5c9d4-3746-6265-874b-0b98774f0800",
-     "type": "page"
+     "id": "89fded7d-e3fb-49a7-59d3-345b781f271b",
+     "type": "page",
+     "pageId": "77b5c9d4-3746-6265-874b-0b98774f0800"
     },
     {
-     "id": "f2dff811-2cfe-774e-3a0d-23a9c14a90a3",
      "title": "Code Challenge: Turtle House Neighborhood",
-     "pageId": "87b6cc4b-f132-98fb-200d-fb5206960fb3",
-     "type": "page"
+     "id": "f2dff811-2cfe-774e-3a0d-23a9c14a90a3",
+     "type": "page",
+     "pageId": "87b6cc4b-f132-98fb-200d-fb5206960fb3"
     }
    ]
   },
@@ -227,75 +227,222 @@
    "type": "chapter",
    "children": [
     {
-     "id": "ec501128-20b2-bf1f-5106-6cc65a529651",
      "title": "Drawing graphics with p5.js",
-     "pageId": "efd1edcd-d534-3497-5c4e-8ba3bfbde6f6",
-     "type": "page"
+     "id": "ec501128-20b2-bf1f-5106-6cc65a529651",
+     "type": "page",
+     "pageId": "efd1edcd-d534-3497-5c4e-8ba3bfbde6f6"
     },
     {
-     "id": "34649dc4-bfbb-9c24-b0a6-12ad8df46363",
      "title": "Coordinate Systems",
-     "pageId": "dde74c31-2e76-a522-b72b-9fbe2c6bac83",
-     "type": "page"
+     "id": "34649dc4-bfbb-9c24-b0a6-12ad8df46363",
+     "type": "page",
+     "pageId": "dde74c31-2e76-a522-b72b-9fbe2c6bac83"
     },
     {
-     "id": "b3114a5d-6453-2cdb-f9f3-28302da4309d",
      "title": "Getting started with p5.js",
-     "pageId": "5f4e4d28-fd80-7218-9f1f-cc84feacaf7e",
-     "type": "page"
+     "id": "b3114a5d-6453-2cdb-f9f3-28302da4309d",
+     "type": "page",
+     "pageId": "5f4e4d28-fd80-7218-9f1f-cc84feacaf7e"
     },
     {
-     "id": "abdcdaac-bfea-532e-29c2-faf73ffafa50",
      "title": "Drawing shapes",
-     "pageId": "0f892c31-fa53-90a6-79f0-40325f4443b5",
-     "type": "page"
+     "id": "abdcdaac-bfea-532e-29c2-faf73ffafa50",
+     "type": "page",
+     "pageId": "0f892c31-fa53-90a6-79f0-40325f4443b5"
     },
     {
-     "id": "ff699fcd-9248-5f64-13d7-3376c5f09d82",
      "title": "Colors",
-     "pageId": "2ca75684-8468-492f-51db-520ff51db0fc",
-     "type": "page"
+     "id": "ff699fcd-9248-5f64-13d7-3376c5f09d82",
+     "type": "page",
+     "pageId": "2ca75684-8468-492f-51db-520ff51db0fc"
     },
     {
-     "id": "5bc7981e-7ac1-25a8-db26-2b17a969da08",
      "title": "Text",
-     "pageId": "b6658359-c976-7fc3-60ea-307231e9ece0",
-     "type": "page"
+     "id": "5bc7981e-7ac1-25a8-db26-2b17a969da08",
+     "type": "page",
+     "pageId": "b6658359-c976-7fc3-60ea-307231e9ece0"
     },
     {
-     "id": "3eb9c3fe-ee87-3aa8-ada4-fa93ba969fe0",
      "title": "Special p5 functions",
-     "pageId": "a410da03-527b-5632-d2ca-78803621c6ec",
-     "type": "page"
+     "id": "3eb9c3fe-ee87-3aa8-ada4-fa93ba969fe0",
+     "type": "page",
+     "pageId": "a410da03-527b-5632-d2ca-78803621c6ec"
     },
     {
-     "id": "3d6e60a1-c555-92e7-cb0c-883c600f990d",
      "title": "Animation using the draw() function",
-     "pageId": "0bf21094-1fb0-b031-f07a-38e4984bd1fa",
-     "type": "page"
+     "id": "3d6e60a1-c555-92e7-cb0c-883c600f990d",
+     "type": "page",
+     "pageId": "0bf21094-1fb0-b031-f07a-38e4984bd1fa"
     },
     {
-     "id": "0d2b8ad3-19a7-1cbb-d50c-060ffad3d72f",
      "title": "Loading and displaying images",
-     "pageId": "3fb98cc7-ba27-164a-299e-9140d1e71d15",
-     "type": "page"
+     "id": "0d2b8ad3-19a7-1cbb-d50c-060ffad3d72f",
+     "type": "page",
+     "pageId": "3fb98cc7-ba27-164a-299e-9140d1e71d15"
     },
     {
-     "id": "23f3ef4b-9658-205b-7e48-344d61e94073",
      "title": "Anatomy of a p5 script",
-     "pageId": "191f802a-a75c-800e-5649-cee41dc514a0",
-     "type": "page"
+     "id": "23f3ef4b-9658-205b-7e48-344d61e94073",
+     "type": "page",
+     "pageId": "191f802a-a75c-800e-5649-cee41dc514a0"
     },
     {
-     "id": "0eae2ead-c49d-ba9d-d4db-06cf2d7df257",
      "title": "Variable scope",
-     "pageId": "0c93d5e1-fb19-3a37-4092-175c6354ddba",
+     "id": "0eae2ead-c49d-ba9d-d4db-06cf2d7df257",
+     "type": "page",
+     "pageId": "0c93d5e1-fb19-3a37-4092-175c6354ddba"
+    },
+    {
+     "title": "Code Challenge: Snowman Sunset",
+     "id": "fc5e4b81-a0fb-d31d-0081-657871436616",
+     "type": "page",
+     "pageId": "11a0f345-d1cf-6d79-6ca8-3a6d5338381c"
+    }
+   ]
+  },
+  {
+   "title": "Conditions",
+   "id": "dc7e4196-1290-aed2-1ea8-35efba941c17",
+   "type": "chapter",
+   "children": [
+    {
+     "id": "dff45894-f58a-011d-1cc7-6541e542eb62",
+     "title": "Boolean expressions",
+     "pageId": "e42f85da-086e-4596-1e3c-aeab6663f764",
      "type": "page"
     },
     {
-     "id": "fc5e4b81-a0fb-d31d-0081-657871436616",
-     "title": "Code Challenge: Snowman Sunset",
-     "pageId": "11a0f345-d1cf-6d79-6ca8-3a6d5338381c",
+     "id": "bda12056-936e-f562-2e2f-575a1e843a88",
+     "title": "Comparison operators",
+     "pageId": "bda12056-936e-f562-2e2f-575a1e843a88",
+     "type": "page"
+    },
+    {
+     "id": "d8145c40-582e-0e87-027c-a4b8ef374f52",
+     "title": "If statements",
+     "pageId": "c4d2f923-7a4d-e5f3-dd8b-124350b58510",
+     "type": "page"
+    },
+    {
+     "id": "f83d8178-1fec-71c7-c473-a494374ad35b",
+     "title": "If statements (practice)",
+     "pageId": "4011f525-3509-0571-a333-0f8f24a7c2da",
+     "type": "page"
+    },
+    {
+     "id": "cd278b9e-ff4c-1f00-44d5-6c8a4f75b06a",
+     "title": "If-else statements",
+     "pageId": "184baaee-7464-9533-6226-595d001eced4",
+     "type": "page"
+    },
+    {
+     "id": "ac085a9a-344d-5bb9-b6f9-7050ab5d9945",
+     "title": "Logical operators",
+     "pageId": "35c53d47-ef61-28ac-0acb-dd7cc1d5034f",
+     "type": "page"
+    },
+    {
+     "id": "a6dde549-9da9-2b8c-dd3f-0331ffd9610e",
+     "title": "Logical operators (practice)",
+     "pageId": "eec6eab2-fd59-591e-f6b0-11b04943df48",
+     "type": "page"
+    },
+    {
+     "id": "bd4fb53f-a8d9-eed7-b6e0-b5b07488d76c",
+     "title": "Negation operator",
+     "pageId": "24f3a213-33f5-1b1b-b7d6-7d502a885c8f",
+     "type": "page"
+    },
+    {
+     "id": "e4a7ff96-507d-1a30-ec5a-602b3543174e",
+     "title": "Code challenge: Pets",
+     "pageId": "992bdb78-ffdf-5d0f-227e-6e133129f113",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Objects",
+   "id": "338f7bc3-58c9-9330-7390-9657e65a12b1",
+   "type": "chapter",
+   "children": [
+    {
+     "id": "96e8c7d2-5891-8df6-7891-30e47ea915b4",
+     "title": "Objects",
+     "pageId": "227eb856-a886-e1a6-5342-868574739742",
+     "type": "page"
+    },
+    {
+     "id": "e70b314c-b048-b533-cf0d-28fa91cdcd73",
+     "title": "Objects (practice)",
+     "pageId": "db71d767-fcf1-0b08-63a0-10c4b0176ad8",
+     "type": "page"
+    },
+    {
+     "id": "e778929a-3ad0-78ee-9f0f-030c06d6ad25",
+     "title": "Adding properties",
+     "pageId": "36b7ff98-b3b5-a1ca-0394-ad449151cb93",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Arrays & Loops",
+   "id": "3496dd8b-651d-6139-4356-451ff4517369",
+   "type": "chapter",
+   "children": [
+    {
+     "id": "1e9e87f0-51c8-b96a-1fa0-b60286e78001",
+     "title": "Arrays",
+     "pageId": "606cf98a-81d6-616e-de67-2bb852d66e5a",
+     "type": "page"
+    },
+    {
+     "id": "d465b3e6-d867-8d06-0f8a-3c5343ae4c7b",
+     "title": "Array Indexes",
+     "pageId": "871c3455-1836-3226-5258-baba646d093f",
+     "type": "page"
+    },
+    {
+     "id": "aadbdda6-0920-2f55-5a80-d7e0102b68b5",
+     "title": "Adding and removing values at the end",
+     "pageId": "b7d0d9d1-d850-4d99-edd9-ee866f570b69",
+     "type": "page"
+    },
+    {
+     "id": "efc7c7c6-5dfc-ecdb-98ee-81455e676f3a",
+     "title": "Adding and removing values at the beginning",
+     "pageId": "08455e0d-48f5-aaa9-e673-206f5e339b81",
+     "type": "page"
+    },
+    {
+     "id": "a43ca1d0-1d7c-99a5-ce8f-494ccde09e1a",
+     "title": "More array methods",
+     "pageId": "b9705102-eeee-64a7-712e-e2556ee22365",
+     "type": "page"
+    },
+    {
+     "id": "cbf13b2b-e949-d9de-84cb-56e4fa3cb285",
+     "title": "Loops",
+     "pageId": "9484860e-002b-a00a-e4f9-656d78502c1a",
+     "type": "page"
+    },
+    {
+     "id": "4d427019-9156-d156-3134-a2a8facfc427",
+     "title": "Counting loops",
+     "pageId": "2feec3dd-3791-6f4f-912c-0dbb7c2a2dbd",
+     "type": "page"
+    },
+    {
+     "id": "9d1b1d15-de47-5d4b-fe40-1eaeb83a07a7",
+     "title": "For-of loop",
+     "pageId": "3f2e5664-7ef7-a9e9-370d-51811bb028c7",
+     "type": "page"
+    },
+    {
+     "id": "5a8de5b5-4d53-0c58-1667-8f045d6284b0",
+     "title": "Coding challenge: Loops",
+     "pageId": "1a8b13e9-dbc5-574a-b779-734c0bae02ab",
      "type": "page"
     }
    ]
