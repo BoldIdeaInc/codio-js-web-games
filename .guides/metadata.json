@@ -930,7 +930,18 @@
   {
    "id": "184baaee-7464-9533-6226-595d001eced4",
    "title": "If-else statements",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "06-conditions/if-statement.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell",
    "path": [],
    "type": "html",
    "content-file": ".guides/content/If-else-statements-184b.html",
