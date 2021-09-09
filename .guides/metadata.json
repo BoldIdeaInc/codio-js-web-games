@@ -1045,7 +1045,13 @@
   {
    "id": "227eb856-a886-e1a6-5342-868574739742",
    "title": "Objects",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "html",
    "content-file": ".guides/content/Objects-227e.html",
@@ -1058,7 +1064,18 @@
   {
    "id": "db71d767-fcf1-0b08-63a0-10c4b0176ad8",
    "title": "Objects (practice)",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: .guides/p/#consoleOnly&2",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "html",
    "content-file": ".guides/content/Objects--practice--db71.html",
@@ -1071,7 +1088,18 @@
   {
    "id": "36b7ff98-b3b5-a1ca-0394-ad449151cb93",
    "title": "Adding properties",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: .guides/p/#consoleOnly&3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "html",
    "content-file": ".guides/content/Adding-properties-36b7.html",
