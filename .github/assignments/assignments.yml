@@ -21,3 +21,7 @@
 - assignment: e207465cddf263732787276692dc8477
   section: ["Conditions"]
   paths: ["06-conditions/**"]
+
+- assignment: 6a07d55da12d16f5c0a83acba9234faf
+  section: ["Objects"]
+  paths: ["07-objects/**"]
