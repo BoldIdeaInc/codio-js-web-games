@@ -61,7 +61,7 @@ function wrap(parent, re, className) {
 function wrapLines(codeBox, range, className) {
   let lineNums = parseRange(range);
   const lines = lineNums.map(n => codeBox.querySelector(`.line-${n}`));
-  parent = lines[0].parentNode;
+  const parent = lines[0].parentNode;
   const wrapper = document.createElement('div');
   wrapper.classList.add(className);
   parent.insertBefore(wrapper, lines[0]);
@@ -74,13 +74,13 @@ function initTour(stepList) {
 	const tourSteps = Array.from(stepList.querySelectorAll('li'));
 	const targetEl = document.querySelector(stepList.dataset.target);
 	if (!targetEl) {
-		console.error(`Could not find target: ${stepList.dataset.target}`);
+		console.error(`initTour: Could not find target: ${stepList.dataset.target}`);
 		return;
 	}
 	for (const [i, step] of tourSteps.entries()) {
     let el = null;
     /** 
-     * FIXME: this approach is broken and overly complex.
+     * FIXME: this approach is overly complex and easy to break.
      *
      * A better approach would be to allow the range of lines or chars:
      * 
@@ -104,13 +104,13 @@ function initTour(stepList) {
         matchTarget.innerHTML = orig.substr(0, selectMatch.index) + html + orig.substr(selectMatch.index + matchedText.length);
         el = matchTarget.querySelector(`.tour-wrapper-${counter}`);
       } else {
-        console.error(`Could not find element: ${matchTarget} -> /${selectReMatch[1]}/${selectReMatch[2] || ''}`);
+        console.error(`initTour: Could not find element: ${matchTarget} -> /${selectReMatch[1]}/${selectReMatch[2] || ''}`);
       }
     } else if (step.dataset.select) {
       // otherwise, use the selector as given
       el = targetEl.querySelector(step.dataset.select);
       if (!el) {
-        console.error(`Could not find element: ${stepList.dataset.target} ${step.dataset.select}`);
+        console.error(`initTour: Could not find element: ${stepList.dataset.target} ${step.dataset.select}`);
       }
     }
     if (!el) continue;

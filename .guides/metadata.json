@@ -1112,7 +1112,18 @@
   {
    "id": "606cf98a-81d6-616e-de67-2bb852d66e5a",
    "title": "Arrays",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: .guides/p/#consoleOnly",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "html",
    "content-file": ".guides/content/Arrays-606c.html",
@@ -1126,6 +1137,7 @@
    "id": "871c3455-1836-3226-5258-baba646d093f",
    "title": "Array Indexes",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "html",
    "content-file": ".guides/content/Array-Indexes-871c.html",
@@ -1177,7 +1189,13 @@
   {
    "id": "9484860e-002b-a00a-e4f9-656d78502c1a",
    "title": "Loops",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "html",
    "content-file": ".guides/content/Loops-9484.html",
@@ -1190,7 +1208,18 @@
   {
    "id": "2feec3dd-3791-6f4f-912c-0dbb7c2a2dbd",
    "title": "Counting loops",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: .guides/p/#consoleOnly",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "html",
    "content-file": ".guides/content/Counting-loops-2fee.html",
@@ -1216,7 +1245,23 @@
   {
    "id": "1a8b13e9-dbc5-574a-b779-734c0bae02ab",
    "title": "Coding challenge: Loops",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "08-arrays-and-loops/loops-challenge.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: .guides/p/#preview=/08-arrays-and-loops/loops-challenge.html&consoleSize=75%25",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell",
    "path": [],
    "type": "html",
    "content-file": ".guides/content/Coding-challenge--Loops-1a8b.html",
