@@ -7,8 +7,8 @@
 
   // Preview button configuration
   "preview": {
-    "Preview current page": "https://{{domain}}/.guides/p/#preview=/{{filepath}}",
-    "Preview home page": "https://{{domain}}/.guides/p/#preview=/",
+    "Preview with console": "https://{{domain}}/.guides/p/#preview=/",
+    "Preview without console": "https://{{domain}}/",
     "Standalone JS console": "https://{{domain}}/.guides/p/#consoleOnly"
   }
 }

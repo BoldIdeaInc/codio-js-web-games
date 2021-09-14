@@ -29,3 +29,16 @@
 - assignment: 7359d5ce760e4be174e3313bae88b85e
   section: ["Arrays and Loops"]
   paths: ["08-arrays-and-loops/**"]
+
+- assignment: 5886420c9d778aa8a103bf25ca5f63c1
+  section:
+    - "Making Sprites w/ p5.game.js"
+    - "Adding asteroids to the game"
+    - "Collision detection"
+    - "Adding sprite animations"
+    - "Shooting lasers"
+    - "Fixing some bugs"
+    - "Adding a background image and a score board"
+    - "Adding sound effects"
+    - "Game Over screen"
+    - "Extra features"
