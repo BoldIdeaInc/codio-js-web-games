@@ -28,6 +28,6 @@ jobs:
           course-id: 36591331a728b6473715b34bf0dc9b85
           changelog: ${{ github.event.head_commit.message }}
           # the location of your yaml mapping files
-          yml: ./.github/assignments2
+          yml: ./.github/assignments
           # Set the domain you are working on - codio.com or codio.co.uk
           domain: codio.com
