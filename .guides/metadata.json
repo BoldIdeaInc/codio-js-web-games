@@ -1324,11 +1324,7 @@
     }
    ],
    "layout": "3-cell-tree",
-   "path": [
-    "index.html",
-    "game.js",
-    "assets"
-   ],
+   "path": [],
    "type": "html",
    "content-file": ".guides/content/Getting-started-4aaa.html",
    "chapter": false,
