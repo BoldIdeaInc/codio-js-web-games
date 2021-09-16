@@ -1,4 +1,3 @@
-// Global variables
 let screenWidth = 600;
 const screenHeight = 800;
 
