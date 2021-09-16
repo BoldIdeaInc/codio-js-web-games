@@ -1323,7 +1323,7 @@
      "action": "open"
     }
    ],
-   "layout": "1-panel",
+   "layout": "3-cell-tree",
    "path": [],
    "type": "html",
    "content-file": ".guides/content/Getting-started-4aaa.html",
