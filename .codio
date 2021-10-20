@@ -9,6 +9,7 @@
   "preview": {
     "Preview with console": "https://{{domain}}/.guides/p/#preview=/",
     "Preview without console": "https://{{domain}}/",
-    "Standalone JS console": "https://{{domain}}/.guides/p/#consoleOnly"
+    "Standalone JS console": "https://{{domain}}/.guides/p/#consoleOnly",
+    "Project Publisher": "https://{{domain3000}}"
   }
 }
