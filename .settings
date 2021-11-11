@@ -1,6 +1,6 @@
 [editor]
 tab_size = 2
-linting = false
+linting = true
 automatic_completions = false
 ; enter your editor preferences here...
 
