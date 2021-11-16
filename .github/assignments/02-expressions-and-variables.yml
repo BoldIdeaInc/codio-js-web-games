@@ -1,3 +1,6 @@
 - assignment: d7e0a0454edee2705722f56833fc8963
   section:  ["Expressions and Variables"]
   paths: ["02-expressions-and-variables/**"]
+- assignment: d7e0a0454edee2705722f56833fc8963
+  section:  ["Expressions and Variables"]
+  paths: [".jshintrc"]
