@@ -1,6 +1,3 @@
 - assignment: 3d862c76dea9438ac2d46c875fa7e012
   section: ["Drawing Graphics with p5.js"]
   paths: ["05-drawing/**"]
-- assignment: 3d862c76dea9438ac2d46c875fa7e012
-  section: ["Drawing Graphics with p5.js"]
-  paths: [".jshintrc"]

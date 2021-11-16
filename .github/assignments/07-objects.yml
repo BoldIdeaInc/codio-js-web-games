@@ -1,6 +1,3 @@
 - assignment: 6a07d55da12d16f5c0a83acba9234faf
   section: ["Objects"]
   paths: ["07-objects/**"]
-- assignment: 6a07d55da12d16f5c0a83acba9234faf
-  section: ["Objects"]
-  paths: [".jshintrc"]

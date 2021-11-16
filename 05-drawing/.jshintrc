@@ -3,7 +3,6 @@
   "undef": true,
   "browser": true,
   "globals": {
-    "Turtle": true,
     "ADD": true,
     "ALT": true,
     "ARROW": true,
