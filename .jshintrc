@@ -2,6 +2,7 @@
   "esversion": 6,
   "undef": true,
   "browser": true,
+  "devel": true,
   "globals": {
     "Turtle": true,
     "ADD": true,
