@@ -1,3 +1,6 @@
 - assignment: 7359d5ce760e4be174e3313bae88b85e
   section: ["Arrays and Loops"]
   paths: ["08-arrays-and-loops/**"]
+- assignment: 7359d5ce760e4be174e3313bae88b85e
+  section: ["Arrays and Loops"]
+  paths: [".jshintrc"]

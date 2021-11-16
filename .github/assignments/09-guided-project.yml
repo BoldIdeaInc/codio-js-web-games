@@ -9,7 +9,7 @@
   paths: ["assets/**"]
 - assignment: 5886420c9d778aa8a103bf25ca5f63c1
   section: ["Adding sprite animations"]
-  paths: []
+  paths: [".jshintrc"]
 - assignment: 5886420c9d778aa8a103bf25ca5f63c1
   section: ["Shooting lasers"]
   paths: []
