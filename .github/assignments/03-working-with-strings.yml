@@ -1,6 +1,3 @@
 - assignment: aeda6e75731fed3e32fe05f1d5cad82d
   section: ["Working with Strings"]
-  paths: ["03-working-with-strings/**"]
-- assignment: aeda6e75731fed3e32fe05f1d5cad82d
-  section: ["Working with Strings"]
-  paths: [".jshintrc"]
+  paths: ["03-working-with-strings/**", ".jshintrc"]
