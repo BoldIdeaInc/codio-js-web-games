@@ -3,6 +3,7 @@ theme = 3024-day
 tab_size = 2
 linting = true
 automatic_completions = false
+spellcheck = false
 
 [preview]
 index_file = index.html
