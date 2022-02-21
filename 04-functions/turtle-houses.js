@@ -1,4 +1,4 @@
-const turtle = new Turtle();
+let turtle = new Turtle();
 
 // BEGIN HOUSE-DRAWING CODE
 
