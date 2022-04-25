@@ -357,6 +357,7 @@
     "removeSprite": true,
     "spriteUpdate": true,
     "updateSprites": true,
-    "useQuadTree": true
+    "useQuadTree": true,
+    "camera": true
   }
 }
