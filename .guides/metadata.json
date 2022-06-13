@@ -1264,11 +1264,11 @@
   },
   {
    "id": "3f2e5664-7ef7-a9e9-370d-51811bb028c7",
-   "title": "For-of loop",
+   "title": "For...of loop",
    "files": [],
    "path": [],
    "type": "html",
-   "content-file": ".guides/content/For-of-loop-3f2e.html",
+   "content-file": ".guides/content/For---of-loop-3f2e.html",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

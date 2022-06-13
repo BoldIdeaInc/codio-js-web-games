@@ -1,9 +1,9 @@
 <script type="text/markdown" data-class="objects intro">
 # Objects
 Imagine you want to make a variable in your code that represents a
-student id card:
+student ID card:
 
-![student id card example](.guides/images/id-card.png) {.s12 .m8}
+![student ID card example](.guides/images/id-card.png) {.s12 .m8}
 
 How would you put all that information into a single variable?
 
@@ -22,11 +22,11 @@ Here's what an object looks like in code:
 Note how the object is defined using opening and closing 
 [[{]] curly brackets [[}]].
 
-Each key is followed by a [[:]], and each item is separated by a [[,]].
+Each key is followed by a [[:]], and each property is followed by a [[,]].
 :::
 
 ## Using dot notation
-To access the items in our object, we use *dot notation*{.voc}.
+To access the values in our object, we use *dot notation*{.voc}.
 Simply put a dot before the key name you want to access. If our
 object is stored in a variable called `student`, we can access the
 `firstName` key using `student.firstName`: 
@@ -35,4 +35,14 @@ object is stored in a variable called `student`, we can access the
 > student.firstName;
 < "Elizabeth"
 ```
+
+## Using square bracket notation
+Another way to access properties in our object is by putting the key
+name as a string in square brackets:
+
+```javascript {.console}
+> student["firstName"];
+< "Elizabeth"
+```
+
 </script>
