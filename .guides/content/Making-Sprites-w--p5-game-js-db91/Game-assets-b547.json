@@ -1,0 +1,24 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "html",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "game.js"
+		}
+	],
+	"id": "b547a3d0-d500-c9d2-e62e-161e1329e849",
+	"layout": "2-panels-tree",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Game assets",
+	"type": "page"
+}

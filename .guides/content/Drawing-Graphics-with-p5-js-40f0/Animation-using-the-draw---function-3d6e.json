@@ -1,0 +1,29 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "html",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "05-drawing/drawing.js"
+		},
+		{
+			"action": "open",
+			"panel": 1,
+			"path": "#preview: .guides/p/#preview=/05-drawing/drawing.html\u0026consoleOpen"
+		}
+	],
+	"id": "3d6e60a1-c555-92e7-cb0c-883c600f990d",
+	"layout": "3-cell",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Animation using the draw() function",
+	"type": "page"
+}

@@ -1,0 +1,24 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "html",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "#preview: .guides/p/#consoleOnly"
+		}
+	],
+	"id": "bd4fb53f-a8d9-eed7-b6e0-b5b07488d76c",
+	"layout": "2-panels",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Negation operator",
+	"type": "page"
+}

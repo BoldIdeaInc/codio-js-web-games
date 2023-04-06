@@ -1,0 +1,11 @@
+{
+	"id": "fdbc8657-032c-07d0-12af-da2f3fe9d5e2",
+	"order": [
+		"-Game-Over--screen-523c",
+		"Drawing-the--Game-Over--screen-1079",
+		"Switching-to-the--Game-Over--screen-cb16",
+		"Add--play-again--functionality-071a"
+	],
+	"title": "Game Over screen",
+	"type": "chapter"
+}

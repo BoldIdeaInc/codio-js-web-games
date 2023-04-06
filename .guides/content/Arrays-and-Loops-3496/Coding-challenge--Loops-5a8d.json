@@ -1,0 +1,29 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "html",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "08-arrays-and-loops/loops-challenge.js"
+		},
+		{
+			"action": "open",
+			"panel": 1,
+			"path": "#preview: .guides/p/#preview=/08-arrays-and-loops/loops-challenge.html\u0026consoleSize=75%25"
+		}
+	],
+	"id": "5a8de5b5-4d53-0c58-1667-8f045d6284b0",
+	"layout": "3-cell",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Coding challenge: Loops",
+	"type": "page"
+}

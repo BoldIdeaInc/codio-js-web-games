@@ -1,0 +1,11 @@
+{
+	"id": "7ddd217f-a130-70ae-5d2e-9bc9b166905f",
+	"order": [
+		"Collision-detection-eca4",
+		"Remove-the-asteroid-when-it-collides-20b7",
+		"More-precise-collisions-1ef1",
+		"Changing-the-collider-shape-1d5f"
+	],
+	"title": "Collision detection",
+	"type": "chapter"
+}

@@ -1,0 +1,16 @@
+{
+	"id": "dc7e4196-1290-aed2-1ea8-35efba941c17",
+	"order": [
+		"Boolean-expressions-dff4",
+		"Comparison-operators-bda1",
+		"If-statements-d814",
+		"If-statements--practice--f83d",
+		"If-else-statements-cd27",
+		"Logical-operators-ac08",
+		"Logical-operators--practice--a6dd",
+		"Negation-operator-bd4f",
+		"Code-challenge--Pets-e4a7"
+	],
+	"title": "Conditions",
+	"type": "chapter"
+}

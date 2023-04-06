@@ -1,0 +1,24 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "html",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "#preview: .guides/p/#consoleOnly\u00262"
+		}
+	],
+	"id": "e70b314c-b048-b533-cf0d-28fa91cdcd73",
+	"layout": "2-panels",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Objects (practice)",
+	"type": "page"
+}

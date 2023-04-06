@@ -1,0 +1,29 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "html",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "04-functions/pbj-function.js"
+		},
+		{
+			"action": "open",
+			"panel": 1,
+			"path": "#preview: /.guides/p/#preview=/04-functions/pbj-function.html\u0026consoleSize=90%25"
+		}
+	],
+	"id": "c34cc908-f7a3-8276-6190-c04003ccc984",
+	"layout": "3-cell",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Defining Functions",
+	"type": "page"
+}

@@ -1,0 +1,12 @@
+{
+	"id": "3d7c8c54-5ac5-4d73-db06-ab6f5e5cb27c",
+	"order": [
+		"Explosion-Bugs-8167",
+		"Using-custom-properties-on-sprites-9071",
+		"Bug--2--shooting-a-asteroid-that-s-already-exploding-f83d",
+		"Bug--3--controlling-the-ship-while-exploding-46f8",
+		"Bug--4--The-ship-can-still-shoot-if-it-s-exploding-4868"
+	],
+	"title": "Fixing some bugs",
+	"type": "chapter"
+}

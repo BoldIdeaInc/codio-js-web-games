@@ -1,0 +1,17 @@
+{
+	"id": "af7743d1-a62a-834e-421a-1cf3e90e7e61",
+	"order": [
+		"Welcome-94a5",
+		"What-is-Javascript--be09",
+		"The-Javascript-Console-23b6",
+		"Running-Javascript-from-a-File-8277",
+		"Inline-Scripts-9916",
+		"External-Scripts-ea00",
+		"Semicolons-0769",
+		"Understanding-Error-Messages-a7b8",
+		"Comments-b1b1",
+		"Multi-line-Comments-85f0"
+	],
+	"title": "Intro to Javascript",
+	"type": "chapter"
+}

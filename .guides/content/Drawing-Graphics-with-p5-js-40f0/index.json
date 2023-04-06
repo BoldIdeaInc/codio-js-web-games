@@ -1,0 +1,19 @@
+{
+	"id": "40f0e206-592d-bb71-b086-c010fab92af7",
+	"order": [
+		"Drawing-graphics-with-p5-js-ec50",
+		"Coordinate-Systems-3464",
+		"Getting-started-with-p5-js-b311",
+		"Drawing-shapes-abdc",
+		"Colors-ff69",
+		"Text-5bc7",
+		"Special-p5-functions-3eb9",
+		"Animation-using-the-draw---function-3d6e",
+		"Loading-and-displaying-images-0d2b",
+		"Anatomy-of-a-p5-script-23f3",
+		"Variable-scope-0eae",
+		"Code-Challenge--Snowman-Sunset-fc5e"
+	],
+	"title": "Drawing Graphics with p5.js",
+	"type": "chapter"
+}

@@ -1,0 +1,13 @@
+{
+	"id": "020e87d5-81ca-94fa-ef46-0cdd2a03d924",
+	"order": [
+		"Shooting-lasers-a4d7",
+		"Firing-lasers-using-the-space-key-2912",
+		"Too-many-sprites--again---59c8",
+		"Lasers-colliding-with-asteroids-1e57",
+		"Exploding-asteroids-54fa",
+		"Removing-the-asteroid-after-the-explosion-d29a"
+	],
+	"title": "Shooting lasers",
+	"type": "chapter"
+}

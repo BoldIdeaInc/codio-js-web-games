@@ -1,0 +1,13 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "html",
+	"files": [],
+	"id": "f83d21a8-4bab-9dca-dba2-6ea7e4fb118e",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Bug #2: shooting a asteroid that's already exploding",
+	"type": "page"
+}

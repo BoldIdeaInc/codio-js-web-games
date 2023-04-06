@@ -1,0 +1,13 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "html",
+	"files": [],
+	"id": "20b7b96a-440b-5d53-54ef-c60802d251fe",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Remove the asteroid when it collides",
+	"type": "page"
+}

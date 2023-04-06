@@ -1,0 +1,24 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "html",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "04-functions/turtle-houses.js"
+		}
+	],
+	"id": "f2dff811-2cfe-774e-3a0d-23a9c14a90a3",
+	"layout": "2-panels",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Code Challenge: Turtle House Neighborhood",
+	"type": "page"
+}

@@ -1,0 +1,25 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "html",
+	"files": [
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "01-intro-to-javascript/javascript-practice.html"
+		},
+		{
+			"action": "open",
+			"panel": 1,
+			"path": "#preview: .guides/p/#preview=/01-intro-to-javascript/javascript-practice.html\u0026consoleSize=115px"
+		}
+	],
+	"id": "9916867c-5ad5-b8e0-e1e9-94d9f0449660",
+	"layout": "3-cell-tree",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Inline Scripts",
+	"type": "page"
+}

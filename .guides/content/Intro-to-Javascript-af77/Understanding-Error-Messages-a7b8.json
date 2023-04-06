@@ -1,0 +1,25 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "html",
+	"files": [
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "01-intro-to-javascript/practice.js"
+		},
+		{
+			"action": "open",
+			"panel": 1,
+			"path": "#preview: .guides/p/#preview=/01-intro-to-javascript/javascript-practice.html\u0026consoleSize=150px"
+		}
+	],
+	"id": "a7b817a4-ca26-a5fc-1386-012fc6393ffa",
+	"layout": "3-cell-tree",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Understanding Error Messages",
+	"type": "page"
+}

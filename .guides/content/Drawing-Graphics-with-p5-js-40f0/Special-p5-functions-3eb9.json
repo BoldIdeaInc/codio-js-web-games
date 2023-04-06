@@ -1,0 +1,24 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "html",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "05-drawing/drawing.js"
+		}
+	],
+	"id": "3eb9c3fe-ee87-3aa8-ada4-fa93ba969fe0",
+	"layout": "",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Special p5 functions",
+	"type": "page"
+}

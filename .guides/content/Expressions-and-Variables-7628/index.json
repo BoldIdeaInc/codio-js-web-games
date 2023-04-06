@@ -1,0 +1,16 @@
+{
+	"id": "76280acf-d596-c489-df50-ed58f7a0c93d",
+	"order": [
+		"Expressions-7794",
+		"Math-Expressions-be3e",
+		"String-Expressions-fbee",
+		"Variables-d9b1",
+		"Declaring-and-Re-assigning-Variables-0a0f",
+		"Incrementing-and-Decrementing-Numbers-cc06",
+		"Naming-37aa",
+		"alert---and-prompt---2eeb",
+		"Code-Challenge--Turtle-Squares-3e4c"
+	],
+	"title": "Expressions and Variables",
+	"type": "chapter"
+}

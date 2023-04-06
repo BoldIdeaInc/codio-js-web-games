@@ -1,0 +1,13 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "html",
+	"files": [],
+	"id": "48686c76-94c2-8392-d3b6-39ce72af9c7f",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Bug #4: The ship can still shoot if it's exploding",
+	"type": "page"
+}

@@ -1,0 +1,18 @@
+{
+	"id": "db91026a-38e4-1d8c-96e3-d880e3178aa6",
+	"order": [
+		"Getting-started-98ae",
+		"Making-sprites-0687",
+		"Game-assets-b547",
+		"Adding-a-ship-sprite-to-the-game-4fd8",
+		"Using-the-preview-panel-f36f",
+		"Positioning-sprites-abdc",
+		"Using--update-functions--for-sprites-b28f",
+		"Adding-keyboard-controls-7979",
+		"Keeping-the-ship-on-the-screen-fa65",
+		"Using-if-statements-to-keep-the-ship-in-bounds-6428",
+		"Detecting-the-right-side-of-the-screen-d2c9"
+	],
+	"title": "Making Sprites w/ p5.game.js",
+	"type": "chapter"
+}

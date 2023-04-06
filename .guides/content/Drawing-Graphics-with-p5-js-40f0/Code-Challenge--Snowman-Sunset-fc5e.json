@@ -1,0 +1,24 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "html",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "05-drawing/snowman-sunset.js"
+		}
+	],
+	"id": "fc5e4b81-a0fb-d31d-0081-657871436616",
+	"layout": "2-panels",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Code Challenge: Snowman Sunset",
+	"type": "page"
+}

@@ -1,0 +1,29 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "html",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "03-working-with-strings/practice.js"
+		},
+		{
+			"action": "open",
+			"panel": 1,
+			"path": "#preview: .guides/p/#preview=/03-working-with-strings/javascript-practice.html\u0026consoleSize=75%25"
+		}
+	],
+	"id": "b32e06a1-2ea8-6cb1-61ca-54b5d8604d84",
+	"layout": "3-cell",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Converting strings to numbers",
+	"type": "page"
+}

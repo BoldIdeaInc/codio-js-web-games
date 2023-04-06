@@ -1,0 +1,24 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "html",
+	"files": [
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "01-intro-to-javascript/javascript-practice.html"
+		},
+		{
+			"action": "open",
+			"panel": 1,
+			"path": "#preview: .guides/p/#preview=/01-intro-to-javascript/javascript-practice.html\u0026consoleSize=115px"
+		}
+	],
+	"id": "ea00d6a6-e0d9-b6a4-b63b-ac47a1645a0a",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "External Scripts",
+	"type": "page"
+}

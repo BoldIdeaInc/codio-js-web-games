@@ -1,0 +1,24 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "html",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "#preview: /.guides/p/#preview=/05-drawing/drawing.html\u0026consoleOpen=true\u0026consoleSize=25%25"
+		}
+	],
+	"id": "abdcdaac-bfea-532e-29c2-faf73ffafa50",
+	"layout": "2-panels",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Drawing shapes",
+	"type": "page"
+}

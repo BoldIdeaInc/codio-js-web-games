@@ -1,0 +1,17 @@
+{
+	"id": "1abb9437-625c-7c26-3495-4b51a746c90c",
+	"order": [
+		"Adding-asteroids-to-the-game-43de",
+		"Putting-sprites-into-motion-8a0d",
+		"Changing-the-asteroid-s-direction-057b",
+		"Send-the-asteroid-spinning-b97f",
+		"Send-the-asteroid-in-random-directions-694c",
+		"Randomize-all-the-things--cf21",
+		"Managing-multiple-sprites-with-Sprite-Groups-2693",
+		"Creating-asteroids-automatically--ab81",
+		"Too-many-sprites--a7ac",
+		"Performance-tuning-649f"
+	],
+	"title": "Adding asteroids to the game",
+	"type": "chapter"
+}

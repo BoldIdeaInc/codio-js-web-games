@@ -1,0 +1,29 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "html",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "index.html"
+		},
+		{
+			"action": "open",
+			"panel": 1,
+			"path": "game.js"
+		}
+	],
+	"id": "98aee330-8208-9eb3-239d-a756863b4669",
+	"layout": "3-cell-tree",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Getting started",
+	"type": "page"
+}
